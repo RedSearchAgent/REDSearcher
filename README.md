@@ -23,7 +23,7 @@ Framework for Long-Horizon Search Agents".
 </p>
 
 <p align="center">
-  📑<a href="https://arxiv.org/abs/xxxxxx"> REDSearcher Paper</a>
+  📑<a href="https://arxiv.org/abs/2602.14234v1"> REDSearcher Paper</a>
 </p>
 
 We will release the SFT data, RL data, SFT code, RL code, evaluation code, and model weights. Stay tuned for update!
