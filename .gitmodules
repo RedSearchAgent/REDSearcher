@@ -1,0 +1,4 @@
+[submodule "DeepTraceHub"]
+	path = DeepTraceHub
+	url = https://github.com/RedSearchAgent/DeepTraceHub.git
+	branch = zchu
