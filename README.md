@@ -101,7 +101,8 @@ dataset = load_dataset("Zchu/REDSearcher_RL")
 @article{redsearcher2026,
   title={REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents},
   author={Zheng Chu and Xiao Wang and Jack Hong and Huiming Fan and Yuqi Huang and Yue Yang and Guohai Xu and Shengchao Hu and Dongdong Kuang and Chenxiao Zhao and Cheng Xiang and Ming Liu and Bing Qin and Xing Yu},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2602.14234},
+  url={https://arxiv.org/pdf/2602.14234},
   year={2026}
 }
 ```
